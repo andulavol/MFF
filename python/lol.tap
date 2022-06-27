@@ -1,0 +1,10 @@
+1..4
+ok 1 One
+ok 2 Two
+ok 3 Three
+not ok 4 Four
+#
+# -- Report --
+# filename:77:26: note: Something is wrong here.
+# --
+#

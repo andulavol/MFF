@@ -1,0 +1,3 @@
+Výsledky 
+input_data_100: cena 22959
+input_data_1000: cena 227707

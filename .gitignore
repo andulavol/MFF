@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/python/.venv
+/python/.vscode
+/python/blabla
+/uvod_do_linuxu/makefilehw/examples-master-13-graded/examples-master-13-graded
+*.stackdump
